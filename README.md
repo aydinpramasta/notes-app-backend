@@ -1,6 +1,7 @@
 <h1 style="text-align: center">Notes App Backend</h1>
 
 ## Prerequisites
+- Git
 - NodeJS v12+
 
 ## Production Deployment Guide
@@ -12,7 +13,7 @@ git clone https://github.com/aydinpramasta/notes-app-backend.git
 npm install --omit=dev
 
 # Create environment variables
-export SERVER_HOSTNAME=<your_hostname> # localhost
+export SERVER_HOSTNAME=<your_hostname> # 0.0.0.0
 export SERVER_PORT=<your_port> # 8000
 
 # Run the application
