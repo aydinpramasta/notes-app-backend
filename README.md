@@ -9,6 +9,9 @@
 # Clone the application
 git clone https://github.com/aydinpramasta/notes-app-backend.git
 
+# Change directory
+cd notes-app-backend
+
 # Install dependencies
 npm install --omit=dev
 
