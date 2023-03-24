@@ -20,6 +20,6 @@ export SERVER_HOSTNAME=<your_hostname> # 0.0.0.0
 export SERVER_PORT=<your_port> # 8000
 
 # Run the application
-npm run start
+npm run prod
 ```
 > Now access [http://notesapp-v1.dicodingacademy.com](http://notesapp-v1.dicodingacademy.com), then in the top panel, click the "Change URL" button. Enter your server hostname and port. Don't forget to test all functionality of the application.
